@@ -1,4 +1,6 @@
 # Self Sign Cert Script (TLS certificate using ECDSA)
+Please note on windows this program adds the self-signed key into the windows certification store. If this behavior is not wished, just remove that part.
+
 
 ## How to run
 To generate a localhost certificate run
